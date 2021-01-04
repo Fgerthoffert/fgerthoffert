@@ -4,7 +4,7 @@ I'm a delivery manager @ [Jahia](https://github.com/jahia/), located in Toronto,
 
 📝 Some of my blog posts on [Jahia's Techblog](https://medium.com/@fgerthoffert) or [OICR Softeng's blog](https://softeng.oicr.on.ca/blog/category/francois_gerthoffert)
 
-I'm passionate about Open-Source and enjoy playing with data/observability to identify how engineering teams improve their practices by better understanding the data they're producing.
+I'm passionate about Open-Source and enjoy playing with data/observability to help engineering teams improve their practices by better understanding the data they're producing.
 
 ##### Open-Source projects:
 
