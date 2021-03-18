@@ -9,7 +9,7 @@ I'm passionate about Open-Source and enjoy playing with data/observability to he
 ##### Open-Source projects:
 
 - 📈 [ZenCrepes](https://github.com/zencrepes), an observability platform for software engineering teams (agile metrics and more). Initially built for teams operating with GitHub issues, it was progressively extended to include more datasets.
-- 🖥️ [Jahia-CLI](https://github.com/Fgerthoffert/jahia-cli), a PoC built to demonstrate feasibility and potential ways forward for orchestrating the Jahia platform. This became Jahia [provisioning API](https://github.com/Jahia/jahia-private/tree/master/bundles/provisioning).
+- 🖥️ [Jahia-CLI](https://github.com/Fgerthoffert/jahia-cli), a PoC built to demonstrate feasibility and potential ways forward for orchestrating the Jahia platform. Its principles were integrated as Jahia [provisioning API](https://github.com/Jahia/jahia-private/tree/master/bundles/provisioning).
 - 📈 [Jira Agile Velocity](https://github.com/Fgerthoffert/jira-agile-velocity), an early version built while playing out with Agile data and Jira - Mostly Inactive (see ZenCrepes)
 - 📷 [Webcampak](https://github.com/webcampak), a long-term timelapse solution - Inactive
 
