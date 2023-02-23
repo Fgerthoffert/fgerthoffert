@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an engineering manager @ [Jahia](https://github.com/jahia/), located in Toronto, Canada.
+I'm an engineering manager @ [Jahia](https://github.com/jahia/), located in Nantes, France.
 
 📝 Some of my blog posts on [Jahia's Techblog](https://medium.com/@fgerthoffert) or [OICR Softeng's blog](https://softeng.oicr.on.ca/blog/category/francois_gerthoffert)
 
